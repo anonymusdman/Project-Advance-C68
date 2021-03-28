@@ -1,0 +1,38 @@
+.navbar-inverse {
+    position: sticky;
+    z-index: 9999;
+    top:0;
+    
+}
+
+.myStyle {
+    font-weight: bold;
+    color: black;
+}
+
+.imagelol {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#itneedstobebig {
+    width: 200%;
+    height: 200%;
+}
+#lodsastylin {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+body {
+    background-color: darkcyan;
+}
+.textnavbar {
+    color: black;
+}
+.navbar-brand {
+    color: black;
+}
+.nav navbar-nav {
+    color: black;
+}
